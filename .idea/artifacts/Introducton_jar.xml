@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Introducton:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Introducton_jar</output-path>
+    <root id="archive" name="Introducton.jar">
+      <element id="module-output" name="Introducton" />
+    </root>
+  </artifact>
+</component>
