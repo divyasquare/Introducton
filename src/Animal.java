@@ -24,7 +24,7 @@ public class Animal {
     }
 
     public static void main(String[] args) {
-        System.out.println("welcome!!");
+        System.out.println("welcome!!123456777");
 
         System.out.println(args[0]);
         System.out.println(args[1]);
